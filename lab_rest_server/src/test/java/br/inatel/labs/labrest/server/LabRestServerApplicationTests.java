@@ -8,6 +8,7 @@ class LabRestServerApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println();
 	}
 
 }
