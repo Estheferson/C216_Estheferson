@@ -7,5 +7,5 @@ Repositório para a disciplina de C216 - Sistemas Distribuídos.
 ## 🚀 Começando
 Para obter uma cópia do projeto a fim de operá-lo/testá-lo de sua máquina, clone o repositório em uma pasta na sua máquina:
 ```
-https://github.com/Estheferson/C214_LAB.git
+https://github.com/Estheferson/C216_Estheferson.git
 
