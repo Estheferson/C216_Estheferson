@@ -1,7 +1,7 @@
 # C216_LAB
 Repositório para a disciplina de C216 - Sistemas Distribuídos.
 
-## ❗ Requisitos 
+## ❗ Pré requisitos 
 - JDK
 - Maven
 
